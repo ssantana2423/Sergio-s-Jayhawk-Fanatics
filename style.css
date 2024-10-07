@@ -1,0 +1,63 @@
+body { 
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7n8TcwoP09AhE7pACAD12oUwj8v2XcRA5ng&s);
+    
+}
+
+
+
+
+p {
+    color: red;
+    background-color: blue; text-align: center;
+}
+
+h2 { color: blue;
+background-color: red;
+text-align: center;
+text-decoration-line: unset; }
+
+h2 {
+    color: rgb(18, 16, 174);
+    background-color: rgb(255, 2, 40);
+
+}
+h1 { color: rgb(247, 247, 247); 
+     text-align: center;
+   
+background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyTH2WI04dFVlnOE7lCESiAJsvQXRBwYPwyQ&s);
+
+}
+
+
+p { border-style: dotted;
+border-width: 0px;
+border-color: gold;
+border-radius: 0px;
+padding: 0px;
+}
+
+h3 {
+    color: blue;
+    background-color: red;
+
+}
+
+h4 {  
+    background-repeat: round;
+    height: 400px;
+    width: 500px;
+   
+    
+    text-align: center;
+    color: aliceblue;
+    
+
+
+    background-image: url(https://imgc.allpostersimages.com/img/poters/george-silk-university-of-kansas-basketball-player-wilt-chamberlain-c-playing-in-a-school-game-1957_u-l-q1310m80.jpg?artHeight=550&artPerspective=n&artWidth=550&background=ffffff);
+    
+}
+
+
+
+    
+    
